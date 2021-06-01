@@ -40,6 +40,6 @@ C# JUNIOR DEVELOPER FOR VR SYSTEM | PYTHON JUNIOR DEVELOPER | SOFTWARE ENGINEER 
 </a>
 
 
-<a href="https://github.com/breDuque/projetoDjango">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breDuque&repo=projetoDjango&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/breDuque/SiteLanches">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=breDuque&repo=SiteLanches&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
