@@ -1,6 +1,6 @@
 ### Olá visitante! 👋
 
-C# JUNIOR DEVELOPER FOR VR SYSTEM | PYTHON JUNIOR DEVELOPER | SOFTWARE ENGINEER STUDENT
+Front End Developer pela Reserve Systems | AngularJS | Asp.NET
 <hr>
 
 ### Tecnologias
